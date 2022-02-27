@@ -8,10 +8,10 @@
     </li>
     <li class="[ field-list__field-group ]">
       {{ label("What’s your email address?", "email") }}
-      {{ field( "email", "email", { required: true, placeholder: "katherine@johnson.tld", autocomplete: "email" } ) }}
+      {{ field( "email", "email", { required: true, placeholder: "katherine@johnson.name", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What’s on your mind?", "message") }}
+      {{ label("Your message", "message") }}
       {{ textarea( "message", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
     </li>
     <li hidden>
@@ -19,4 +19,7 @@
     </li>
   </ol>
   {{ button("Send message") }}
+  <div style="margin-top: 2rem">
+  <img src="/images/bcf.png" />
+  </div>
 </form>

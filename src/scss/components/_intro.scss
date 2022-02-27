@@ -2,8 +2,8 @@
   background: var(--color-theme-highlight-block);
 
   &__summary {
-    --flow-space: #{get-size(500)};
-    font-size: get-size(500);
+    --flow-space: #{get-size(100)};
+    font-size: get-size(100);
 
     a {
       color: currentColor;
@@ -19,7 +19,7 @@
     color: var(--color-theme-feature-text);
 
     &--compact {
-      max-width: 20ex;
+      font-size: xsmall;
     }
   }
 }

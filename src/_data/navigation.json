@@ -6,14 +6,24 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
-      "external": true
+      "text": "Books",
+      "url": "/books",
+      "external": false
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
+      "text": "Poetry",
+      "url": "/poetry",
       "external": false
+    },
+    {
+      "text": "Bio",
+      "url": "/bio",
+      "external": false
+    },
+    {
+      "text": "Facebook",
+      "url": "http://www.facebook.com/pages/C-C-Phillips/229584720839",
+      "external": true
     }
   ]
 }
