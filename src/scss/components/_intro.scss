@@ -2,6 +2,8 @@
   background: var(--color-theme-highlight-block);
 
   &__summary {
+    display: flex;
+    gap: 3em;
     --flow-space: #{get-size(100)};
     font-size: get-size(100);
 
