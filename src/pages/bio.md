@@ -14,5 +14,4 @@ Phillips' adventurous spirit moved him and his family to La Ronge in central Sas
 
 ![](https://ccphillips.net/static/images/shack_after.png)
 
-Throughout the course of his life, C. C. Phillips has continued to write. Now retired, he is able to devote more time to pencil, pen and keyboard. He takes a keen interest in wildlife and spends hours tramping or riding across the grasslands. Leisure time is devoted to his family, puttering in shop and barn in summer, hunting in autumn and winter. He and his wife currently reside in their country home in southern Saskatchewan.Bio here
-![](/images/shack_after.png)
+Throughout the course of his life, C. C. Phillips has continued to write. Now retired, he is able to devote more time to pencil, pen and keyboard. He takes a keen interest in wildlife and spends hours tramping or riding across the grasslands. Leisure time is devoted to his family, puttering in shop and barn in summer, hunting in autumn and winter. He and his wife currently reside in their country home in southern Saskatchewan.
